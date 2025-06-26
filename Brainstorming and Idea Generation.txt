@@ -1,0 +1,62 @@
+LTVIP2025TMID33537Ideation Phase
+Brainstorm & Idea Prioritization Template
+
+Date
+24 June 2025
+
+Team ID
+LTVIP2025TMID33537
+Project Name
+HealthAI: Intelligent Healthcare Assistant using IBM Granite
+
+Maximum Marks
+4 Marks
+Brainstorm & Idea Prioritization Template:
+Brainstorming provides a free and open environment that encourages everyone within a team to participate in the creative thinking process that leads to problem solving. Prioritizing volume over value, out-of-the-box ideas are welcome and built upon, and all participants are encouraged to collaborate, helping each other develop a rich amount of creative solutions.
+Use this template in your own brainstorming sessions so your team can unleash their imagination and start shaping concepts even if you're not sitting in the same room.
+Reference: https://www.mural.co/templates/brainstorm-and-idea-prioritization
+Step-1: Team Gathering, Collaboration and Select the Problem Statement
+Problem Statement:
+Many individuals lack timely access to personalized medical advice, leading to delays in treatment, misdiagnosis, and poor health management. Traditional healthcare systems often suffer from overburdened professionals, inefficient triaging, and inadequate use of patient data.
+
+Selected Problem to Solve:
+How might we design an intelligent AI-powered assistant that uses IBM Granite to provide accurate, real-time healthcare support enabling better diagnosis, preventive care, and continuous health monitoring?
+
+
+
+Step-2: Brainstorm, Idea Listing and Grouping
+Ideas Generated:
+1. Symptom Checker using Natural Language Input   User types or speaks symptoms; AI offers possible causes.
+2. Personalized Health Recommendations   Diet, exercise, and lifestyle advice based on health data.
+3. AI Doctor Assistant for Clinics   A tool for doctors to quickly access medical summaries and suggestions.
+4. Emergency Response Triage Bot   Prioritizes urgency and directs users to nearest medical help.
+5. Integration with Wearables   Continuous health data monitoring using smartwatches.
+6. Multilingual Support Chatbot   Communicates with users in multiple regional languages.
+7. Health Record Analyzer   Scans uploaded prescriptions and reports for insights.
+8. Medication Reminder System   Sends alerts for medication times and refill alerts.
+9. Mental Health Companion   Detects mental distress signals and offers emotional support.
+
+Grouped Ideas by Category:
+User-Facing Features: 1, 2, 4, 6, 8, 9
+Healthcare Professional Support: 3, 7
+Technology Integrations: 5
+
+Step-3: Idea Prioritization
+Idea Prioritization Table:
+
+Idea                                     | Feasibility | Impact | Priority
+----------------------------------------|-------------|--------|----------
+Symptom Checker using NL input           | High        | High   | Top Priority
+Personalized Health Recommendations      | Medium      | High   | Medium
+AI Doctor Assistant for Clinics          | Medium      | Medium | Medium
+Emergency Response Triage Bot            | High        | High   | Top Priority
+Integration with Wearables               | Medium      | Medium | Medium
+Multilingual Support Chatbot             | High        | High   | Top Priority
+Health Record Analyzer                   | Low         | High   | Low
+Medication Reminder System               | High        | Medium | Medium
+Mental Health Companion                  | Medium      | Medium | Medium
+
+Final Top 3 Priority Ideas for Implementation:
+1. Symptom Checker using Natural Language Input
+2. Emergency Response Triage Bot
+3. Multilingual Support Chatbot
