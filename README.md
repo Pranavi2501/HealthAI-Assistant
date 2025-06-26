@@ -34,6 +34,8 @@ Visualize and analyze patient data for deeper insights.
 [![Watch the demo](https://drive.google.com/file/d/1YomVvtTmYC2_vpyDokMj3-rCKOaDBUGH/view?usp=drive_link)
 
 ---
+#Project Web Application Link
+[HealthAI Assistant – live demo](https://healthai-rfupnaxxbtpkqzywrczzra.streamlit.app/)
 
 ## 📦 Installation
 
