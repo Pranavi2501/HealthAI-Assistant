@@ -34,8 +34,19 @@ Visualize and analyze patient data for deeper insights.
 [![Watch the demo](https://drive.google.com/file/d/1YomVvtTmYC2_vpyDokMj3-rCKOaDBUGH/view?usp=drive_link)
 
 ---
+## 📃  Documentation 
+
+[📃Documentation on Google Drive](https://1drv.ms/f/c/521582bb67b2f4fb/EpzEkfUxda5DhOqJcuNLPJQBz0F7TDRhUdSgPw2PWWhmSA?e=MfI83n)
+
+---
+## 📄 Project Overview 
+[📄 Project Overview on Google Drive](https://drive.google.com/drive/folders/15bNcqc2XhGqRqdLMB8y4Eo9H6T0hFyq8)
+
+---
 ## 🔗 Project Web Application Link
 [HealthAI Assistant – live demo](https://healthai-rfupnaxxbtpkqzywrczzra.streamlit.app/)
+
+---
 
 ## 📦 Installation
 
