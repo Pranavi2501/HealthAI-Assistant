@@ -37,7 +37,6 @@ def granite_response(prompt):
         "Content-Type": "application/json",
         "Authorization": f"Bearer {token}"
     }
-
     body = {
         "messages": [
             {"role": "system", "content": "You are a helpful, cautious AI health assistant named HealthAI."},
@@ -52,10 +51,6 @@ def granite_response(prompt):
     try:
         response = requests.post(url, headers=headers, json=body)
         data = response.json()
-
-        # Show response for debugging (optional)
-        st.code(f"💬 IBM Response:\n{data}", language="json")
-
         if "choices" in data:
             return data["choices"][0]["message"]["content"]
         elif "error" in data:
