@@ -37,7 +37,7 @@ Visualize and analyze patient data for deeper insights.
 ---
 ## 📃  Documentation 
 
-[📃Documentation on Google Drive](https://1drv.ms/f/c/521582bb67b2f4fb/EpzEkfUxda5DhOqJcuNLPJQBz0F7TDRhUdSgPw2PWWhmSA?e=MfI83n)
+[📃Documentation on Google Drive](https://drive.google.com/drive/folders/1dBmyaxrCh9RhI8A_51a6wuiPxAqkTwXI)
 
 ---
 ## 📄 Project Overview 
